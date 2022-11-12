@@ -1,0 +1,523 @@
+#+title: Vinterstudion
+
+12 november:
+
+* Vinterstudion SVT1/Play
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-11-12 Sat 09:30-13:50>
+
+** Skidskytte, Idre
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-11-12 Sat 10:00-11:10>
+** Skidskytte, Idre
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-11-12 Sat 12:10-13:20>
+* Vinterstudion, SVT1/Play
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-11-13 09:30-13:15>
+** Skidskytte, Idre
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-11-13 10:00-10:50>
+** Skidskytte, Idre
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-11-13 11:50-12:45>
+* Vinterstudion, SVT1/Play
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-11-19 10:30-14:00>
+** Längdskidor, Bruksvallarna
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-11-19 10:45-12:25>
+** Freestyle, slopestyle, Stubai
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-11-19 11:20-12:45>
+* Vinterstudion, SVT1/Play
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-11-20 10:30-14:00>
+** Längdskidor, Bruksvallarna
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-11-20 10:40-12:25>
+** Längdskidor, Bruksvallarna
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-11-20 12:30-13:45>
+* Skidskytte, Kontiolahti, individuellt (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-11-29 13:00-15:10>
+* Skidskytte, Kontiolahti, individuellt (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-11-30 13:00-15:10>
+* Vinterstudion, SVT1/Play
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-03 09:00-15:25>
+** Skidskytte, Kontiolahti, sprint (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-03 10:45-12:05>
+** Skidskytte, Kontiolahti, sprint (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-03 13:45-15:00>
+* Vinterstudion, SV1/Play
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-04 12:00-15:30>
+** Skidskytte, Kontiolahti, jaktstart (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-04 12:15-13:00>
+** Skidskytte, Kontiolahti, jaktstart (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-04 14:15-14:55>
+* Vinterstudion
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-10 09:00-15:25>
+** Längdskidor, Ski Classics, Bad Gastein
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-10 09:30-12:15>
+** Skidskytte, Hochfilzen, jakstart (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-10 11:30-12:15>
+** Skidskytte, Hochfilzen, statfett (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-10 13:40-15:00>
+* Vinterstudion
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-11 09:00-15:25>
+** Längdskidor, Ski Classics, Bad Gastein
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-11 09:15-12:15>
+** Skidskytte, Hochfilzen, stafett (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-11 11:30-12:45>
+** Skidskytte, Hochfilzen, jaktstart (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-11 14:15-15:00>
+* Vinterstudion
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-17 08:00-15:15>
+** Längdskidor, Ski Classics, La Venosta
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-17 08:15-12:15>
+** Skidskytte, Annecy, jaktstart (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-17 12:10-12:50>
+** Skidskytte, Annecy, jaktstart (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-17 14:15-14:55>
+* Vinterstudion
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-18 11:00-15:15>
+** Skidskytte, Annecy, masstart (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-18 12:10-12:55>
+** Skidskytte, Annecy, masstart (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-12-18 14:15-15:00>
+* Vinterstudion, SVT1/Play
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2023-01-07 12:15-16:00>
+** Skidskytte, Pokljuka, jaktstart (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-07 12:30-13:15>
+** Skidskytte, Pokljuka, jaktstart (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-07 14:45-15:30>
+* Vinterstudion, SVT1/Play
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2023-01-08 11:45-16:00>
+** Skidskytte, Pokljuka, singelmixed stafett
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-08 12:00-12:45>
+** Skidskytte, Pokljuka, mixed stafett
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-08 14:15-15:35>
+* Vinterstudion, SVT1/Play
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2023-01-14 08:45-16:00>
+** Längdskidor, Ski Classics, Pusteral
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-14 09:00-12:15>
+** Alpint, störtlopp, St: Anton (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-14 11:00-12:15>
+** Skidskytte, Ruhpolding, stafett (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-14 14:25-15:45>
+* Vinterstudion, SVT1/Play
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2023-01-15 08:45-16:00>
+** Längdskidor, Ski Classics, Prato Piazza
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-15 09:00-11:00>
+** Alpint, super-G, St: Anton (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-15 11:30-12:30>
+** Skidskytte, Ruhpolding, masstart (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-15 12:30-13:15>
+** Skidskytte, Ruhpolding, masstart (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-15 14:45-15:30>
+* Vinterstudion
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2023-01-21 08:45-16:00>
+** Längdskidor, Ski Classics, La Diagonela
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-21 08:55-11:40>
+** Alpint, störtslopp, Kitzbühel (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-21 11:30-13:00>
+** Skidskytte, Antholz, jaktstart (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-21 13:00-13:40>
+** Skidskytte, Antholz, jaktstart (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-21 15:00-15:45>
+* Vinterstudion, SVT1/Play
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2023-01-22 10:15-16:00>
+** Alpint, slalom, Kitzbühel, första åket (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-22 10:30-11:30>
+** Skidskytte, Antholz, stafett (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-22 11:45-13:00>
+** Alpint, slalom, Kitzbühel, andra åket (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-22 13:30-14:30>
+** Skidskytte, Antholz, stafett (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-22 14:30-15:45>
+* Vinterstudion
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2023-01-28 10:00-15:00>
+** Skidskytte, EM, 10 km jaktstart (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-28 10:30-11:30>
+** Skidskytte, EM, 12,5 km, jaktstart (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-28 13:30-14:30>
+* Vinterstudion
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2023-01-29 07:45-15:00>
+** Längdskidor, Ski Classics, Marcialonga
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-29 08:00-11:20>
+** Skidskytte, EM, mixed stafett
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-29 10:30-11:50>
+** Skidskytte, EM, singelmixed stafett
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-01-29 13:30-14:30>
+* Vinterstudion
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2023-02-11 14:00-16:30>
+** Skidskytte, VM, sprint (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-02-11 14:30-15:50>
+* Vinterstudion
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2023-02-12 12:45-16:30>
+** Skidskytte, VM, jaktstart (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-02-12 13:25-14:05>
+** Skidskytte, VM, jaktstart (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-02-12 15:30-16:10>
+* Vinterstudion
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2023-02-18 09:00-16:30>
+** Längdskidor, Ski Classics, Orsa
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-02-18 09:15-12:35>
+** Skidskytte, VM, stafett (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-02-18 11:45-13:00>
+** Skidskytte, VM, stafett (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-02-18 15:00-16:15>
+* Vinterstudion
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2023-02-19 07:45-16:30>
+** Längdskidor, Ski Classics, Orsa
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-02-19 08:00-12:00>
+** Skidskytte, VM, masstart (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-02-19 12:30-13:10>
+** Skidskytte, VM, masstart (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-02-19 15:15-16:00>
+* Vinterstudion
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2023-03-04 13:30-17:00>
+** Skidskytte, Nove Mesto, jakstart (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-03-04 13:45-14:25>
+** Skidskytte, Nove Mesto, jaktstart (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-03-04 15:45-16:25>
+* Vinterstudion (tider ej klara)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-03-05>
+* Vasaloppet (tider ej klara)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-03-05>
+** Skidskytte, Nove Mesto, mixed stafett
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-03-05 11:30-12:40>
+** Skidskytte, Nove Mesto, single mixed stafett
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-03-05 15:15-16:00>
+* Vinterstudion (tider ej klara)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-03-11>
+** Skidskytte, Östersund, stafett (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-03-11 14:00-15:15>
+** Skidskytte, Österstund, stafett (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-03-11 16:30-17:50>
+* Vinterstudion
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2023-03-12 12:45-17:30>
+** Skidskytte, Östersund, masstart (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-03-12 13:00-13:45>
+** Skidskytte, Östersund, masstart (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-03-12 15:45-16:30>
+* Vinterstudion
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2023-03-18 08:00-16:00>
+** Längdskidor, Ski Classics, Birkebeinerrennet
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-03-18 08:00-10:45>
+** Skidskytte, Holmenkollen, jaktstart (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-03-18 12:50-13:30>
+** Skidskytte, Holmenkollen, jaktstart (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-03-18 15:10-15:50>
+* Vinterstudion
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2023-03-19 12:30-16:00>
+** Skidskytte, Holmenkollen, masstart (h)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-03-19 12:50-13:35>
+** Skidskytte, Holmenkollen, masstart (d)
+:PROPERTIES:
+:DESCRIPTION:
+:END:
+<2022-03-19 15:10-15:55>
