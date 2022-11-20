@@ -70,17 +70,17 @@
 :PROPERTIES:
 :DESCRIPTION:
 :END:
-<2022-11-20 10:30-14:00>
+<2022-11-20 10:15-14:00>
 ** Längdskidor, Bruksvallarna
 :PROPERTIES:
 :DESCRIPTION:
 :END:
-<2022-11-20 10:40-12:25>
+<2022-11-20 10:45-12:25>
 ** Längdskidor, Bruksvallarna
 :PROPERTIES:
 :DESCRIPTION:
 :END:
-<2022-11-20 12:30-13:45>
+<2022-11-20 12:25-13:45>
 * Skidskytte, Kontiolahti, individuellt (h)
 :PROPERTIES:
 :DESCRIPTION:
